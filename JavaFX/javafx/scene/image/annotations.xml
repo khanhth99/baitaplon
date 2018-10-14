@@ -1,0 +1,5 @@
+<root>
+    <item name='javafx.scene.image.ImageView'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
